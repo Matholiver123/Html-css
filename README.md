@@ -9,4 +9,5 @@ Este repositório contém meus exercícios de Python feitos durante meus estudos
 | `Titulos.html`    | Titulos!        |
 | `Padaria.html`    | Padaria             |
 | `Curriculo.html`    |Curriculo |
+| `Listas de Compras.html`    |Lista de Compras |
 | ...         | ...                               |
