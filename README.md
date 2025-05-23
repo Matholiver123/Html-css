@@ -7,6 +7,6 @@ Este repositório contém meus exercícios de Python feitos durante meus estudos
 | Arquivo     | Descrição                         |
 |-------------|-----------------------------------|
 | `Titulos.html`    | Titulos!        |
-| `ex2.py`    | Soma de dois números               |
+| `Padaria.html`    | Padaria             |
 | `ex3.py`    | Saudação com nome e idade |
 | ...         | ...                               |
