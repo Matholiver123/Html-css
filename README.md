@@ -8,5 +8,5 @@ Este repositório contém meus exercícios de Python feitos durante meus estudos
 |-------------|-----------------------------------|
 | `Titulos.html`    | Titulos!        |
 | `Padaria.html`    | Padaria             |
-| `ex3.py`    | Saudação com nome e idade |
+| `Curriculo.html`    |Curriculo |
 | ...         | ...                               |
