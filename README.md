@@ -1,13 +1,19 @@
 # 🎨 Html-css
 
-Este repositório contém meus exercícios de Python feitos durante meus estudos. Cada arquivo `.py` representa um exercício simples, com foco em aprender os fundamentos da linguagem.
+Este repositório contém meus exercícios de css feitos durante meus estudos.
 
 ## 📚 Lista de exercícios
 
 | Arquivo     | Descrição                         |
 |-------------|-----------------------------------|
+| `Biografia.html`    | Biografia!        |
+| `Curriculo.html`    | Curriculo!        |
+| `Galeria.html`    | Galeria!        |
+| `Horario.html`    | Horário!        |
+| `Links.html`    | Links!        |
+| `Mapa.html`    | Mapa!        |
+| `Noticias.html`    | Noticias!        |
+| `Padaria.html`    | Padaria!        |
+| `Restaurante.html`    | Restaurante!             |
 | `Titulos.html`    | Titulos!        |
-| `Padaria.html`    | Padaria             |
-| `Curriculo.html`    |Curriculo |
-| `Listas de Compras.html`    |Lista de Compras |
 | ...         | ...                               |
